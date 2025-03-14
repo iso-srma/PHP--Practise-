@@ -72,5 +72,49 @@
     echo"Your Total is :\${$total}";
     
 ?>*/
+?>
+
+
+
+<?php
+/*
+
+//Day -3  Arithmetic Operators  (+,-,*,/,%)
+
+    $x=10;
+    $y=20;
+    $sum=null;
+    $mul=null;
+
+    $sum = $x+$y;
+    $sub = $x-$y;
+
+    // $mul = $x*$y;
+    // $Div= $x/$y;
+    // $Mod = $x%$y;
+
+   
+
+    echo "The sum of two number is {$sum}<br>";
+    printf( "Subtraction is $sub<br>");
+
+
+    // //Increament or decrement operators 
+    // $counter =10;
+    // $counter=$counter+1;//$counter++;
+    // //counter--
+    // echo $counter;
+    
+//operator precendence 
+    //()
+    // **
+    // * / %
+    // + -
+
+    $total = 5 + 2  - 10 * 7 / 5 ** 9;
+    echo $total;
+*/
+
+?>
 
 
