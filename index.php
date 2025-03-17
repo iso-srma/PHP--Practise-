@@ -263,7 +263,8 @@ echo "{$_POST["password"]} <br>";
     // $total = sqrt($x);
     // $total = pow($x,$y);
     // $total = max($x,$y,$z);
-    $total = min($x,$y,$z);
+    // $total = min($x,$y,$z);
+    $total =rand(1,100);
 
     echo $total;
     
@@ -272,3 +273,5 @@ echo "{$_POST["password"]} <br>";
 
 
 
+
+ 
