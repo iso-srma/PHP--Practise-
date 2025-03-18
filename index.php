@@ -292,7 +292,6 @@ Day -5 Math Function
     $circum =null;
 
     $circum =2 * pi() * $radius;
-
     echo"circum = {$circum}cm <br>";
 ?>
 
