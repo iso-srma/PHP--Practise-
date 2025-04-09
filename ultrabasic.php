@@ -81,6 +81,15 @@ foreach($fruits as $value){
 }
 
 ?>
+//Functions
+function print10(){
+    echo "Ten";
+}
+print10();
+print10();
+print10();
+print10();
+?>
 
     </div>
 </body>
