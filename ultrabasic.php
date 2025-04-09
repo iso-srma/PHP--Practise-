@@ -90,7 +90,14 @@ print10();
 print10();
 print10();
 ?>
-
+function printgara($n){
+    echo "<br> The number is ";
+    echo $n;
+}
+printgara(60);
+printgara(70);
+printgara(80);
+printgara(90);
     </div>
 </body>
 </html>
